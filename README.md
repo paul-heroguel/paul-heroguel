@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://paul-heroguel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-paul--heroguel.netlify.app-1d5a42?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:heroguelp@gmail.com"><img src="https://img.shields.io/badge/Email-contact-222222?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/paul-heroguel"><img src="https://img.shields.io/badge/LinkedIn-profil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
