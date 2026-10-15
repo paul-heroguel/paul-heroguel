@@ -52,6 +52,7 @@ from back-end to front-end.
 
 | Projet | Description | Stack |
 |---|---|---|
+| [Analyse des orientations](https://github.com/heroguelp-collab/analyse-orientations) | Analyse d'un réseau d'orientations de patients entre médecins, modélisé en graphe : statistiques, recherche de chemins (parcours en largeur), médecins isolés.<br><i>Patient referral network analysis modelled as a graph: statistics, path finding (BFS), isolated nodes.</i> | Java |
 | [SauveTaBouffe](https://github.com/heroguelp-collab/Sauve_Ta_Bouffe)<br>[🌐 Démo](https://heroguelp-collab.github.io/Sauve_Ta_Bouffe/) | Site anti-gaspillage alimentaire : paniers d'invendus, panier d'achat, réservation avec QR code, suivi des commandes et factures. Version FR/EN, responsive.<br><i>Anti food-waste website: surplus food baskets, cart, booking with QR code, order tracking and invoices. FR/EN, responsive.</i> | HTML · CSS · JavaScript |
 
 ---
